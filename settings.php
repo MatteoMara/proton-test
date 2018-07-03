@@ -4,7 +4,7 @@ $username = "phpUser";
 $password = "password";
 $dbname = "ProtonMailGlobal";
 
-$totalNodes = 10;
+$totalNodes = 1;
 $actualNode = 1;
 
 ?>
